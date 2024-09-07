@@ -1,4 +1,9 @@
 
+
+Link para acessar o trabalho na integra no Github
+https://github.com/Laiscaniato/Case-2
+
+
 # MBA Engenharia de dados
 ## Trabalho de modelagem de dados
 
