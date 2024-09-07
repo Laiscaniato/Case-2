@@ -19,11 +19,9 @@
 * Crie as tabelas Fato e Dimensão
 * Crie o Script SQL para criar a tabela FATO (Extract / Data Collection)
 
-**Nome da Empresa:** TechNova
+**Nome da Empresa:** Gym TechNova
 
-**Nome do Domínio de Informação:** Análise e Gerenciamento de Dados
-
-**Sigla:** AGD
+**Sigla:** GTN
 
 ## Campos com nome lógico e físico 
 
